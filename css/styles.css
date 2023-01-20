@@ -1,0 +1,166 @@
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+body {
+    font-family: 'Roboto', 'sans-serif';
+    letter-spacing: 0.02em;
+}
+/*========COMPONENTS========*/
+.section-title {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.section-description {
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+}
+/*========/COMPONENTS========*/
+
+
+/*========HEADER========*/
+.page-header {
+    background: #FFFFFF;
+}
+.page-nav {}
+
+/*logo*/
+.logo {
+    color: #2E2F42;
+    font-family: Raleway;
+    font-size: 18px;
+    line-height: 1.33;
+    letter-spacing: 0.03em;
+}
+.logo-accent {
+    color: #4D5AE5;   
+}
+
+/*Menu-nav*/
+.menu-nav {}
+.menu-item {}
+
+.menu-link {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.menu-link:hover,
+.menu-link:focus {
+    color: #434455;
+}
+.menu-link:active {
+    color: #4D5AE5;
+}
+/*address*/
+.modal-btn{
+        color: #434455;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+}
+.modal-btn:hover,
+.modal-btn:focus{
+    color: #4D5AE5;
+}
+
+.phone-number {
+        color: #434455;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;         
+}
+.phone-number:hover,
+.phone-number:focus {
+    color: #4D5AE5;
+}
+/*========/HEADER========*/
+
+
+/*========HERO========*/
+.hero {}
+.hero-title {
+    color: #FFFFFF;
+    background: #2E2F42;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+}        
+.hero-btn {
+    color: #FFFFFF; 
+    background: #4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+.hero-btn:hover,
+.hero-btn:focus {
+    background: #404BBF;
+}
+/*========/HERO========*/
+
+
+/*========SECTION BENEFITS========*/
+
+
+/*========/SECTION BENEFITS========*/
+
+/*========SECTION WORK========*/
+.section-main-title {
+        color: #2E2F42;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.1;
+}
+.work-list {}
+/*========/SECTION WORK========*/
+
+
+/*========SECTION TEAM========*/
+.team {
+background: #F4F4FD;
+}
+/*========/SECTION TEAM========*/
+
+
+
+/*========FOOTER========*/
+.page-footer {
+background: #2E2F42;
+}
+.footer-description {
+    color: #E7E9FC; 
+    font-size: 16px;
+    line-height: 1.5; 
+}
+/*========/FOOTER========*/
+
+
+
+
+/*PORTFOLIO*/
+
+
+
+.filter-btn {
+    color: #4D5AE5;
+    background: #F4F4FD;
+    cursor: pointer;
+}
+.filter-btn:hover,
+.filter-btn:focus {
+    color: #FFFFFF;
+    background: #404BBF;
+}
